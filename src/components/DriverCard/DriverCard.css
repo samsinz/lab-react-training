@@ -1,0 +1,27 @@
+.DriverCard {
+    height: 6rem;
+    width: 30rem;
+    background-color: teal;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.DriverCard img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+    object-fit: cover;
+}
+
+.DriverCard #info {
+    color: white;
+    text-align: left;
+    margin-left: 1rem;
+    line-height: 0.5rem;
+}
+
+.DriverCard #info p:first-of-type{
+    font-weight: 600;
+}

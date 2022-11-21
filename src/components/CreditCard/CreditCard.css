@@ -1,0 +1,28 @@
+.CreditCard {
+    height: 12rem;
+    width: 18rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+.CreditCard #cardType {
+    padding: 0 0 0 12rem;
+    width: 3rem;
+}
+
+.CreditCard #cardNb {
+    text-align: left;
+    padding: 4rem 0 0 1rem;
+    font-size: 1.5rem;
+}
+
+.CreditCard #expireDateAndBank {
+    text-align: left;
+    padding: 0 0 0 1rem;
+}
+
+.CreditCard #userName {
+    text-align: left;
+    padding: 0 0 0 1rem;
+}
